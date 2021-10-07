@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  line-height: 1.5;
+  font-family: 'Lato', sans-serif;
+}
+
+.app{
+  width: 600px;
+}
+
+h1{
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 90px;
+  text-transform: uppercase;
+  letter-spacing: 11px;
+  text-align: center;
+  color: #79c5e7;
+}
+
+h1 span{
+  color: #bc672c;
+}
+
+.content img{
+  width: 100%;
+  margin: 20px 0;
+}
+
+.content h3{
+  background-color: #79c5e7;
+  padding: 14px 0px 14px 14px;
+  color: #fff;
+  font-family: 'Gemunu Libre', sans-serif;
+  letter-spacing: 1px;
+}
+
+.content p{
+  margin: 20px 0;
+  color: #002447;
+}
