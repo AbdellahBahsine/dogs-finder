@@ -47,3 +47,28 @@ h1 span{
   margin: 20px 0;
   color: #002447;
 }
+
+@media screen and (max-width: 624px){
+  .app{
+    width: 96%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 630px){
+  h1{
+    font-size: 56px;
+  }
+}
+
+@media screen and (max-width: 432px){
+  h1{
+    font-size: 46px;
+  }
+}
+
+@media screen and (max-width: 366px){
+  h1{
+    font-size: 30px;
+  }
+}
